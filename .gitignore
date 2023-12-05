@@ -1,0 +1,25 @@
+# Keep Rule
+!gitkeep.txt
+
+# Django #
+db.sqlite3
+*.log
+*.pyc
+__pycache__
+
+# Media - User Generated Content #
+media/
+
+# Environments #
+.env
+.venv/
+
+# Visual Studio, VSCode #
+
+*.suo
+*.pyproj
+*.pyproj.User
+*.history
+.vs/
+obj/
+

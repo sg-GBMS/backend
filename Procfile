@@ -1,0 +1,1 @@
+web: sh -c 'cd ./GBMS/ && exec gunicorn GBMS.wsgi'
