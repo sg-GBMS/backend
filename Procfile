@@ -1,1 +1,1 @@
-web: sh -c 'cd ./GBMS/ && exec gunicorn GBMS.wsgi'
+web: sh -c 'cd ./backend/ && exec gunicorn backend.wsgi'

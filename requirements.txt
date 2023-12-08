@@ -1,4 +1,4 @@
-django~=4.2
+django~=5.0
 django-extensions
 dj-database-url
 gunicorn
